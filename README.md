@@ -1,4 +1,4 @@
-# proyecto.js-navegador
+# proyecto.javascript-navegador
 
 Control de gastos 💲
 
