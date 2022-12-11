@@ -16,5 +16,6 @@ Podremos borrar cualquier gasto o ingreso que hayamos introducido.
 ![image](https://user-images.githubusercontent.com/113195224/206876668-ef7ecec0-873a-4414-98a3-eeb5670cc7e0.png)
 
 
-![image](https://user-images.githubusercontent.com/113195224/206876643-0e5590da-e21f-4db4-9152-8af35121e6b3.png)
+![image](https://user-images.githubusercontent.com/113195224/206896638-17e7660f-4cc4-42f6-8b84-40b1e5674a85.png)
+
 
